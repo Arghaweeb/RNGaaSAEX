@@ -12,6 +12,7 @@ coverage
 .next/
 out/
 build
+node-compile-cache/
 
 # misc
 .DS_Store
